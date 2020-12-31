@@ -35,3 +35,7 @@ I'd recommend using a blender to get a more uniform dough, but you can use your 
 9. Cook it in the pre-heated oven for about 25 minutes at `200 C` / `390 F` until it gets a brownish color. Using more water instead of milk will require less time.
 
 Enjoy your brioche!
+
+### Credits
+
+This recipe is a personal take based on the original recipe from [Alex](https://www.youtube.com/watch?v=hY19NK7qBCU).
