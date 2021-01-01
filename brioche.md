@@ -3,8 +3,8 @@
 Brioche is a French sweet bread similar to a highly enriched pastry. The texture is soft and a bit fluffier than regular white bread.
 
 <div>
-  <img height="300px" src="https://user-images.githubusercontent.com/589285/103423691-d2c2fa80-4b5c-11eb-9c54-f8f35e2a2d17.jpg"/>
-  <img height="300px" src="https://user-images.githubusercontent.com/589285/103423801-8c21d000-4b5d-11eb-9fa4-053ab2eebc77.jpg"/>
+  <img height="300px" src="images/brioche/1.jpg"/>
+  <img height="300px" src="images/brioche/2.jpg"/>
 </div>
 
 ### Ingredients
