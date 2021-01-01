@@ -23,6 +23,7 @@ Topping is up to you I usually go with:
 Tomato sauce: smashed tomatoes + garlic
 Oregano
 Fresh mozzarella cheese
+Ham
 Big mushrooms
 Olive-oil
 Pepper powder
@@ -54,7 +55,7 @@ Having a baking stone (even if it's a $10 one) will dramatically increase and im
 1. `First`: with your hand open, smash the ball with the hand of your palm, removing the air gently from it. Start making small stretches to the sides to widen the dough.
 1. `Second`: you pick up the dough, and with the help of your arm and the dough's weight, you can start stretching the pizza a bit more until you are happy with the size.
 1. Small tip: try to leave some border so the pizza will grow more prominent on the sides.
-1. Add the ingredients in order: `tomato sauce`, `oregano`, `cheese`, `mushrooms` in slices.
+1. Add the ingredients in order: `tomato sauce`, `oregano`, `cheese`, `ham`, and `mushrooms` in slices.
 1. Place the pizza in the oven, preferably the lowest position (to maximize the heat). Leave it there for `5 minutes`.
 1. Switch the oven to `broil`, and leave it there for 4-5 minutes.
 1. Take the pizza out of the oven.
