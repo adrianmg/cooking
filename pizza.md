@@ -1,4 +1,4 @@
-# Pizza
+# Best Homemade Pizza
 
 Tasty and straightforward homemade pizza based on the original recipe from [Pizza Camp](https://www.amazon.com/Pizza-Camp-Recipes-Pizzeria-Beddia/dp/1419724096) and Joe Beddia.
 
