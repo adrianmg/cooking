@@ -24,6 +24,8 @@ You will also need a `loaf pan` to shape and cook the final dough in the oven.
 
 I'd recommend using a blender to get a more uniform dough, but you can use your own hands (although the dough gets a bit heavy).
 
+#### Sequence
+
 1. Beat the `eggs` and leave a very tiny portion to brush the bread later in the process. This will add some color and texture to the top.
 2. Mix the bread `flour` + `eggs` + `milk` slowly.
 3. Add and mix `butter` + `sugar` + `salt` slowly.
